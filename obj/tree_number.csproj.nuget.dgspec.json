@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sneg/Documents/tree_number/tree_number.csproj": {}
+    "/home/sneg/Documents/C#/home_work_18.01.2023/tree_number/tree_number.csproj": {}
   },
   "projects": {
-    "/home/sneg/Documents/tree_number/tree_number.csproj": {
+    "/home/sneg/Documents/C#/home_work_18.01.2023/tree_number/tree_number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sneg/Documents/tree_number/tree_number.csproj",
+        "projectUniqueName": "/home/sneg/Documents/C#/home_work_18.01.2023/tree_number/tree_number.csproj",
         "projectName": "tree_number",
-        "projectPath": "/home/sneg/Documents/tree_number/tree_number.csproj",
+        "projectPath": "/home/sneg/Documents/C#/home_work_18.01.2023/tree_number/tree_number.csproj",
         "packagesPath": "/home/sneg/.nuget/packages/",
-        "outputPath": "/home/sneg/Documents/tree_number/obj/",
+        "outputPath": "/home/sneg/Documents/C#/home_work_18.01.2023/tree_number/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sneg/.nuget/NuGet/NuGet.Config"
